@@ -12,7 +12,7 @@ Follow these steps to set up the project environment and run the application:
    ```bash
    python -m venv venv
 
-3. Activate the environment ( use powershell)
+3. Activate the environment (use powershell)
    ```bash
     .\venv\Scripts\activate
 4. Install the requiremetns
